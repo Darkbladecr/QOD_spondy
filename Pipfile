@@ -8,9 +8,9 @@ jupyter = "*"
 numpy = "*"
 notebook = "*"
 matplotlib = "*"
-sklearn = "*"
 pandas = "*"
 missforest = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
