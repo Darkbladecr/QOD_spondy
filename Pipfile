@@ -11,6 +11,7 @@ matplotlib = "*"
 pandas = "*"
 missforest = "*"
 scikit-learn = "*"
+seaborn = "*"
 
 [dev-packages]
 
