@@ -12,6 +12,7 @@ pandas = "*"
 missforest = "*"
 scikit-learn = "*"
 seaborn = "*"
+xlsxwriter = "*"
 
 [dev-packages]
 
