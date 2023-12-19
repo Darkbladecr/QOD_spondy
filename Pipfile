@@ -13,6 +13,7 @@ missforest = "*"
 scikit-learn = "*"
 seaborn = "*"
 xlsxwriter = "*"
+statsmodels = "*"
 
 [dev-packages]
 
